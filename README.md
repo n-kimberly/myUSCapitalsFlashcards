@@ -1,8 +1,6 @@
-# **kimberly's To Do List Skill**
+# **Sample U.S. Capitals Flashcards Skill**
 
-### This Alexa sample skill allows users to create, 'view', and update their to do list.
-
-#### Currently, the skill does not persist the list to a database. The skill comes pre-populated with "stand", "sit", and "lie down" to do list items.Feel free to remove those by asking the skill to take you to the update menu. Additionally, you can create items in the session through the create menu.
+### This Alexa sample skill allows users to practice memorizing the 50 U.S. capitals.
 
 <h1 style="text-align: center;"> Example </h1>
 
